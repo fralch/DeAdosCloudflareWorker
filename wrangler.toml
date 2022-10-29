@@ -1,0 +1,5 @@
+name = "deados"
+main = "src/index.js"
+compatibility_date = "2022-10-29"
+
+account_id = "0902da5d2e6fa2c11da218fe9b1e81e9"
